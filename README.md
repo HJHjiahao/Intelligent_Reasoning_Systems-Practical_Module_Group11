@@ -5,8 +5,8 @@ The original data train_full.csv, orders.csv, test_full.csv are in /original_dat
 To save the memory, the dataset generated **train_df.csv** is in /dataset/, the link is [train_df](https://drive.google.com/file/d/10xjYmWz45yA-zncbstCLTbeACEOKyArE/view?usp=sharing).
 
 ## Requirements
-sklearn
-numpy
+sklearn  
+numpy  
 pandas
 
 ## Guide
