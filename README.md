@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## A Restaurant and Food Recommendation Syetem
+## A Restaurant and Food Recommendation System
 image of initial page here
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
