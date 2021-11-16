@@ -1,14 +1,23 @@
-# Intelligent_Reasoning_Systems-Practical_Module_Group11
+# SECTION 1 : PROJECT TITLE
+## A Restaurant and Food Recommendation Syetem
+image of initial page here
 
-## Customers, vendors and orders data
-The original data train_full.csv, orders.csv, test_full.csv are in /original_data/.  
-To save the memory, the dataset generated **train_df.csv** is in /dataset/, the link is [train_df](https://drive.google.com/file/d/10xjYmWz45yA-zncbstCLTbeACEOKyArE/view?usp=sharing).
+# SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
+Singapore ranks amongst countries with the highest population density in the world. In a bid to have firm control over long term urban planning, the Singapore government came up with the “Built to Order” (abbreviated BTO) initiative back in 2001. These are new Housing Development Board (HDB) flats tightly controlled by their eligibility and quantity released every year. In more recent years, the modern BTO scheme in Singapore requires a waiting period of 3-4 years, and is generally targeted at young Singaporean couples looking to purchase their first property and set up a family. Nationality and income ceilings are some of the broad filters that determine one’s eligibility for the highly sought after projects.
 
-## Requirements
-sklearn  
-numpy  
-pandas
+Our team, comprising of 6 young Singaporeans, all hope to be property owners one day. Many of our peers opt for BTO flats due to their affordability, existence of financial aid from the government, as well as their resale value. However, there often exists a knowledge gap for these young couples during the decision making process and they end up making potentially regretful decisions. We would like to bridge this knowledge gap, and have hence chosen to base our project on creating a recommender system for BTO flats, utilizing the data from recent launches in Tampines, Eunos, Sengkang and Punggol.
 
-## Guide
-1. Download the dataset files.
-2. Run the collaborative_filtering.py.
+Using the techniques imparted to us in lectures, our group first set out to build a sizeable knowledge base via conducting an interview and administering a survey. While building the system, we utilized tools such as Java to scrape real time data from HDB website and transform it into a database, CLIPS to synthesize the rule based reasoning process, and Python to integrate it into an easy to use UI for the everyday user. To add icing on the cake, we even hosted the system on a website so that the everyday user can access it through the click of a link.
+
+Our team had an amazing time working on this project, and hope to share our insights with everyone. Despite a focus on BTO flats, we would recommend it for everybody interested in understanding property market trends for residence or investment purposes. There truly are a wide array of factors behind the decision to invest in a property, and we only wish there was more time to work on the scope and scale of the project.
+
+# SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+| Official Full Name  | Student ID (MTech Applicable) | Work Items (Who Did What)  | Email (Optional) |
+| ------------- | ------------- | ------------- | ------------- | 
+| YI CHEN  | A0231486A  | Content Cell  | Content Cell  | 
+| HUANG JIAHAO  | A0231374L  | Design User Cases, Restaurant Recommendation  | E0703406@u.nus.edu  | 
+| SHAO ZHERUI  | A0231482L  | Content Cell  | Content Cell  | 
+
+# SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+2 video links here
+
