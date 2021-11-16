@@ -19,5 +19,5 @@ Our team had an amazing time working on this project, and hope to share our insi
 | SHAO ZHERUI  | A0231482L  | Content Cell  | Content Cell  | 
 
 # SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-2 video links here
+2 video covers with link here
 
