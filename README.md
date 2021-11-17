@@ -20,5 +20,6 @@ Our team had an amazing time working on this project, and hope to share our insi
 | SHAO ZHERUI  | A0231482L  | Content Cell  | Content Cell  | 
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-https://github.com/HJHjiahao/Intelligent_Reasoning_Systems-Practical_Module_Group11/blob/main/Video/IRS-PM-2021-11-17-GRP11-GoodMeal-Food%26RestuarantRecommender-system.mp4
+System: https://github.com/HJHjiahao/Intelligent_Reasoning_Systems-Practical_Module_Group11/blob/main/Video/IRS-PM-2021-11-17-GRP11-GoodMeal-Food%26RestuarantRecommender-system.mp4 
+promotion:https://drive.google.com/file/d/1qz3ipJfCyrCTAtaJIrN5f0blz0vhFPte/view?usp=sharing
 
