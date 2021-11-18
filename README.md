@@ -17,7 +17,7 @@ Our team had an amazing time working on this project, and hope to share our insi
 | ------------- | ------------- | ------------- | ------------- | 
 | YI CHEN  | A0231486A  | Front-end bulid, System deployment, Food Reommendation  | E0703518@u.nus.edu  | 
 | HUANG JIAHAO  | A0231374L  | Design User Cases, Restaurant Recommendation  | E0703406@u.nus.edu  | 
-| SHAO ZHERUI  | A0231482L  | Content Cell  | Content Cell  | 
+| SHAO ZHERUI  | A0231482L  | Food Recommendation  | E0703514@u.nus.edu  | 
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 System: https://github.com/HJHjiahao/Intelligent_Reasoning_Systems-Practical_Module_Group11/blob/main/Video/IRS-PM-2021-11-17-GRP11-GoodMeal-Food%26RestuarantRecommender-system.mp4 
